@@ -1,0 +1,18 @@
+#header-center {
+    margin: 0 auto;
+    width: 1080px;
+}
+
+#header-center h1 {
+    display: inline-block;
+    width: 280px;
+}
+
+#header-center h2 {
+    display: none;
+}
+
+#header-center fieldset {
+    display: inline-block;
+    width: 520px;
+}
